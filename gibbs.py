@@ -1,7 +1,6 @@
-#CS-167 Gibb's Sampler
+# Gibb's Sampler
 # author: Jeffrey Lin
 # Date: 2/24/2023
-# HW 2
 #
 # Purpose: Detects local motifs found within a set of multiple sequences
 

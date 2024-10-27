@@ -6,6 +6,7 @@ This program detects local motifs found within a set of multiple sequences
 ## Directions on Compilation of the Program
 compilation should follow the following format:    
     python3 gibbs.py < [insert FASTA file] > output
+    
 Use the following compilation instructions instead, if compiling in powershell:
 Get-Content [insert FASTA file] | python3 gibbs.py > output
     
